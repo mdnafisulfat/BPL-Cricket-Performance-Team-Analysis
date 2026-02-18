@@ -88,5 +88,6 @@ The Excel dashboard includes:
 
 ![Conditional Formatting Example](https://github.com/mdnafisulfat/BPL-Cricket-Performance-Team-Analysis/blob/main/Conditional%20Formating.png?raw=true)
 
+![Conditional Formatting 2](https://github.com/mdnafisulfat/BPL-Cricket-Performance-Team-Analysis/blob/main/Conditional%20Formating%202.png?raw=true)
 
 
