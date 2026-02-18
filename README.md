@@ -82,5 +82,8 @@ The Excel dashboard includes:
 
 ---
 
-## 📂 Project Structure
+## 📍 Dashboard Preview
+
+![BPL Dashboard](https://github.com/mdnafisulfat/BPL-Cricket-Performance-Team-Analysis/blob/main/Dashboard.png?raw=true)
+
 
