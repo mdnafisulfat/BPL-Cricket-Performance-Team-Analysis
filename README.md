@@ -86,4 +86,7 @@ The Excel dashboard includes:
 
 ![BPL Dashboard](https://github.com/mdnafisulfat/BPL-Cricket-Performance-Team-Analysis/blob/main/Dashboard.png?raw=true)
 
+![Conditional Formatting Example](https://github.com/mdnafisulfat/BPL-Cricket-Performance-Team-Analysis/blob/main/Conditional%20Formating.png?raw=true)
+
+
 
